@@ -1,0 +1,20 @@
+<html>
+<head>
+<title> Pop-up </title>
+meta charset="utf-8">
+<style>
+.popup {
+position: fixed;
+top: 0; bottom: 0;
+left: 0; right:0;
+margin: auto;
+width: 300px;
+height: 180px;
+padding: 60px;
+border: solid 1px #4c4d4f;
+background: #f5812a;
+}
+</style>
+</head>
+
+</html>
